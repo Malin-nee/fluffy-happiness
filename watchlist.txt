@@ -1,0 +1,10 @@
+# Extra tickers to always scan (one per line), in addition to Yahoo Finance screeners.
+# Pre-market movers often aren't in yesterday's screener lists, so add names you follow here.
+AAPL
+AMD
+NVDA
+TSLA
+PLTR
+SOFI
+MARA
+RIOT
